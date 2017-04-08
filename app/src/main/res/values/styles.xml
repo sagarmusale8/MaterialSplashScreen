@@ -10,7 +10,7 @@
 
 
     <style name="AppTheme.Launch" parent="AppTheme">
-        <item name="android:windowBackground">@drawable/logo_screen</item>
+        <item name="android:windowBackground">@drawable/splash_screen</item>
     </style>
 
 
